@@ -12,11 +12,13 @@
 
 Here is the list:
 
+<!--
 <style>
     hr:nth-of-type(1) {
         border-image: linear-gradient(to right, #F00, #0F0 20%, #00F 80%, #000) 1 !important;
     }
 </style>
+-->
 
 ---
 
