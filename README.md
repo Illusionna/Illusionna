@@ -35,8 +35,10 @@ Here is the list:
 - [**NEUmail**](https://github.com/Illusionna/NEUmail) (_`Public`_) Batch Download Email Attachments via POP3/IMAP 批量下载 QQ、163 等邮箱附件
 - [**NEUmail-Homepage**](https://github.com/Illusionna/NEUmail-Homepage) (_`Public`_) NEUmail Website 工具主页
 - [**Ollava**](https://github.com/Illusionna/Ollava) (_`Public`_) 本科毕业设计，基于 Ollama 和 CLIP 大模型技术，构建 RAG 检索和图片搜索的软件
+- [**plt.c**](https://github.com/Illusionna/plt.c) (_`Public`_) Draw the function graph using the C language (Just for fun) 用 C 语言绘制函数图像
 - [**PMail**](https://github.com/Illusionna/PMail) (_`Fork`_) A Personal Domain Email Server 个人域名邮箱服务器
 - [**Read-the-Docs**](https://github.com/Illusionna/Read-the-Docs) (_`Public`_) 数值分析插值、多元统计分析马尔可夫链
+- [**redirect.c**](https://github.com/Illusionna/redirect.c) (_`Public`_) A cross-platform HTTP redirect service in order to implement URL short link （支持 Windows 和 Linux 的 HTTP 短链接重定向器）
 - [**Subjects**](https://github.com/Illusionna/Subjects) (_`Private`_) 本科杂七杂八的学科资料
 - [**TinyCC-Runtime**](https://github.com/Illusionna/TinyCC-Runtime) (_`Public`_) Add Useful Libraries to Tiny C Compiler 给 TCC 编译器内置新的运行时 .h 头文件
 - [**TinyCThread-Tutorial**](https://github.com/Illusionna/TinyCThread-Tutorial) (_`Public`_) A Tutorial for Multi-threading in C Programming Language 跨平台的 C 语言多线程教程，包括线程、互斥锁，可使用支持 C99 的 TCC 编译
