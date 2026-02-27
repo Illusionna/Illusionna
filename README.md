@@ -10,8 +10,6 @@
 
 > Front-end: HTML, CSS, Vanilla JS (with some Vue)
 
-Here is the list:
-
 <!-- 
 <style>
     hr:nth-of-type(1) {
@@ -46,23 +44,11 @@ Here is the list:
 - [**redirect.c**](https://github.com/Illusionna/redirect.c) (_`Public`_) A cross-platform HTTP redirect service in order to implement URL short link 支持 Windows 和 Linux 的 HTTP 短链接重定向器
 - [**Subjects**](https://github.com/Illusionna/Subjects) (_`Private`_) 本科杂七杂八的学科资料
 - [**TCPer**](https://github.com/Illusionna/TCPer) (_`Public`_) A Cross-Platform File Transmission Tool 基于 TCP 协议的跨操作系统平台传输工具
-
 - [**Tiny-Markdown-Editor**](https://github.com/Illusionna/Tiny-Markdown-Editor) (_`Public`_) A Markdown editor created using the `libwebui` static library in C language 使用 C 语言 `libwebui` 静态库构建微型 Markdown 编辑器
-
 - [**tiny-stats**](https://github.com/Illusionna/tiny-stats) (_`Public`_) A statistical library implemented in C language, including Independent Samples T-test and Neural Network BP Classification, etc. 用 C 语言实现的统计算法，包括独立样本 $t$ 检验、BP 神经网络分类等
-
-
-
 - [**TinyCC-Runtime**](https://github.com/Illusionna/TinyCC-Runtime) (_`Public`_) Add Useful Libraries to Tiny C Compiler 给 TCC 编译器内置新的运行时 `.h` 头文件
 - [**TinyCThread-Tutorial**](https://github.com/Illusionna/TinyCThread-Tutorial) (_`Private`_) A Tutorial for Multi-threading in C Programming Language 跨平台的 C 语言多线程教程，包括线程、互斥锁，可使用支持 C99 的 TCC 编译
-
-
 - [**UCAS-Homework**](https://github.com/Illusionna/UCAS-Homework) (_`Public`_) 中国科学院研究生一年级北京集中教学课程的杂七杂八作业
-
 - [**UDPer**](https://github.com/Illusionna/UDPer) (_`Public`_) A transmission application by UDP 基于 UDP 协议实现一个可靠传输机制的工具
-
-
-
-
 - [**VisionTransformer**](https://github.com/Illusionna/VisionTransformer) (_`Public`_) Efficient ViT Extension Experiment 在血细胞、水果、猫狗图片集上的扩展实验
 - [**webui**](https://github.com/Illusionna/webui) (_`Fork`_) A C Programming Language GUI Framework 使用 Web 浏览器或 WebView 的 C 语言 GUI 框架
