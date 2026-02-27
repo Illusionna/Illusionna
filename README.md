@@ -52,3 +52,4 @@
 - [**UDPer**](https://github.com/Illusionna/UDPer) (_`Public`_) A transmission application by UDP 基于 UDP 协议实现一个可靠传输机制的工具
 - [**VisionTransformer**](https://github.com/Illusionna/VisionTransformer) (_`Public`_) Efficient ViT Extension Experiment 在血细胞、水果、猫狗图片集上的扩展实验
 - [**webui**](https://github.com/Illusionna/webui) (_`Fork`_) A C Programming Language GUI Framework 使用 Web 浏览器或 WebView 的 C 语言 GUI 框架
+- [**zipng**](https://github.com/Illusionna/zipng) (_`Public`_) Minimalist program and efficient compression for PNG 高效压缩 PNG 图片的工具
