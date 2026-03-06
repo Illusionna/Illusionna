@@ -2,7 +2,7 @@
 
 <div align="center">
     <img src="./profile/top-langs.svg" width="40%"/>
-    <img src="./profile/stats.svg" width="50%"/>
+    <img src="./profile/stats.svg" width="52%"/>
     <br></br>
 </div>
 
