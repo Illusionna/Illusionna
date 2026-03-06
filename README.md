@@ -1,8 +1,8 @@
 # The index page of all my repositories. 👋
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Illusionna&hide=issues" width="58%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illusionna&layout=compact" width="40%"/>
+    <img src="./profile/stats.svg" width="58%"/>
+    <img src="./profile/top-langs.svg" width="40%"/>
     <br></br>
 </div>
 
