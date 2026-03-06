@@ -1,8 +1,8 @@
 # The index page of all my repositories. 👋
 
 <div align="center">
-    <img src="./profile/top-langs.svg" width="40%"/>
-    <img src="./profile/stats.svg" width="58%"/>
+    <img src="./profile/top-langs.svg" width="58%"/>
+    <img src="./profile/stats.svg" width="40%"/>
     <br></br>
 </div>
 
@@ -23,6 +23,7 @@
 
 - [**LocalTransfer**](https://github.com/Illusionna/LocalTransfer) (_`Public`_) A fast cross-platform HTTP file server 轻量小巧快速上手的跨平台 HTTP 文件服务器软件
 - [**TCPer**](https://github.com/Illusionna/TCPer) (_`Public`_) A Cross-Platform File Transmission Tool 基于 TCP 协议的跨操作系统平台传输工具
+- [**HashMap.c**](https://github.com/Illusionna/HashMap.c) (_`Public`_) A type-safe generic `HashMap` table for C11 · 为 C11 打造的通用哈希表
 
 ## List
 
