@@ -1,8 +1,8 @@
 # The index page of all my repositories. 👋
 
 <div align="center">
-    <img src="./profile/stats.svg" width="58%"/>
     <img src="./profile/top-langs.svg" width="40%"/>
+    <img src="./profile/stats.svg" width="58%"/>
     <br></br>
 </div>
 
