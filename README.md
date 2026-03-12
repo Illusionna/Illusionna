@@ -33,6 +33,7 @@
 - [**cryptography.github.io**](https://github.com/Illusionna/cryptography.github.io) (_`Public`_) Cryptography Algorithms 一些加密算法，包括 MD5、DES、AES、RSA、ECC、SHA-1、SHA2-256、SHA3-256、Xoodyak
 - [**DesktopGo**](https://github.com/Illusionna/DesktopGo) (_`Public`_) Screen Shared via Socket 快速共享桌面屏幕，通过浏览器观看
 - [**Diagrams**](https://github.com/Illusionna/Diagrams) (_`Public`_) 杂七杂八的直链图床
+- [**HashMap.c**](https://github.com/Illusionna/HashMap.c) (_`Public`_) A type-safe generic `HashMap` table for C11 · 为 C11 打造的通用哈希表
 - [**Illusionna.github.io**](https://github.com/Illusionna/Illusionna.github.io) (_`Public`_) Redirect to my GitHub Pages 重定向到 [**`Orzzz.net`**](https://www.orzzz.net) 主页
 - [**iQQbot**](https://github.com/Illusionna/iQQbot) (_`Public`_) 一个 HTTP 事件上报的 QQ 机器人框架
 - [**LocalTransfer**](https://github.com/Illusionna/LocalTransfer) (_`Public`_) A fast cross-platform HTTP file server 轻量小巧快速上手的跨平台 HTTP 文件服务器软件
@@ -43,6 +44,7 @@
 - [**PMail**](https://github.com/Illusionna/PMail) (_`Fork`_) A Personal Domain Email Server 个人域名邮箱服务器
 - [**Read-the-Docs**](https://github.com/Illusionna/Read-the-Docs) (_`Public`_) 数值分析插值、多元统计分析马尔可夫链
 - [**redirect.c**](https://github.com/Illusionna/redirect.c) (_`Public`_) A cross-platform HTTP redirect service in order to implement URL short link 支持 Windows 和 Linux 的 HTTP 短链接重定向器
+- [**stdc**](https://github.com/Illusionna/stdc) (_`Public`_) C language cross-platform standard library 跨平台的 C 语言标准库
 - [**Subjects**](https://github.com/Illusionna/Subjects) (_`Private`_) 本科杂七杂八的学科资料
 - [**TCPer**](https://github.com/Illusionna/TCPer) (_`Public`_) A Cross-Platform File Transmission Tool 基于 TCP 协议的跨操作系统平台传输工具
 - [**Tiny-Markdown-Editor**](https://github.com/Illusionna/Tiny-Markdown-Editor) (_`Public`_) A Markdown editor created using the `libwebui` static library in C language 使用 C 语言 `libwebui` 静态库构建微型 Markdown 编辑器
