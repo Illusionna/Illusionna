@@ -6,7 +6,7 @@
     <br></br>
 </div>
 
-> Back-end: Python, C, Go (with some Java, MATLAB, C++)
+> Back-end: Python, C, Zig, Go (with some Java, MATLAB, C++)
 
 > Front-end: HTML, CSS, Vanilla JS (with some Vue)
 
