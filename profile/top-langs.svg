@@ -1,8 +1,8 @@
 
       <svg
-        width="460"
-        height="165"
-        viewBox="0 0 460 165"
+        width="300"
+        height="345"
+        viewBox="0 0 300 345"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -92,102 +92,117 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="459"
+          width="299"
           fill="#ffffff00"
           stroke-opacity="0"
         />
 
         
-      <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
-        <g transform="translate(0, 0)">
-      <text
-        x="0"
-        y="0"
-        class="header"
-        data-testid="header"
-      >Most Used Languages</text>
-    </g>
-      </g>
-    
 
         <g
           data-testid="main-card-body"
-          transform="translate(0, 55)"
+          transform="translate(0, 25)"
         >
           
-    <svg data-testid="lang-items" x="25">
-      
-  
-      <mask id="rect-mask">
-          <rect x="0" y="0" width="410" height="8" fill="white" rx="5"/>
-        </mask>
-        
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="0"
-          y="0"
-          width="144.64"
-          height="8"
-          fill="#555555"
+    <svg data-testid="lang-items">
+      <g transform="translate(0, 0)">
+        <svg data-testid="donut">
+          
+      <g class="stagger" style="animation-delay: 100ms">
+        <circle 
+          cx="150"
+          cy="100"
+          r="80"
+          fill="transparent"
+          stroke="#555555"
+          stroke-width="25"
+          stroke-dasharray="502.6548245743669"
+          stroke-dashoffset="0"
+          size="35.278305110749635"
+          data-testid="lang-donut"
         />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="144.64"
-          y="0"
-          width="86.9"
-          height="8"
-          fill="#858585"
+      </g>
+    
+      <g class="stagger" style="animation-delay: 200ms">
+        <circle 
+          cx="150"
+          cy="100"
+          r="80"
+          fill="transparent"
+          stroke="null"
+          stroke-width="25"
+          stroke-dasharray="502.6548245743669"
+          stroke-dashoffset="177.3281026672485"
+          size="21.194577254971968"
+          data-testid="lang-donut"
         />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="231.54"
-          y="0"
-          width="79.3"
-          height="8"
-          fill="#6E4C13"
+      </g>
+    
+      <g class="stagger" style="animation-delay: 300ms">
+        <circle 
+          cx="150"
+          cy="100"
+          r="80"
+          fill="transparent"
+          stroke="#6E4C13"
+          stroke-width="25"
+          stroke-dasharray="502.6548245743669"
+          stroke-dashoffset="283.86366778750653"
+          size="19.340286906513118"
+          data-testid="lang-donut"
         />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="310.84"
-          y="0"
-          width="40.77"
-          height="8"
-          fill="#DA5B0B"
+      </g>
+    
+      <g class="stagger" style="animation-delay: 400ms">
+        <circle 
+          cx="150"
+          cy="100"
+          r="80"
+          fill="transparent"
+          stroke="#DA5B0B"
+          stroke-width="25"
+          stroke-dasharray="502.6548245743669"
+          stroke-dashoffset="381.0785530096193"
+          size="9.944980393868613"
+          data-testid="lang-donut"
         />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="351.60999999999996"
-          y="0"
-          width="35.42"
-          height="8"
-          fill="#e34c26"
+      </g>
+    
+      <g class="stagger" style="animation-delay: 500ms">
+        <circle 
+          cx="150"
+          cy="100"
+          r="80"
+          fill="transparent"
+          stroke="#e34c26"
+          stroke-width="25"
+          stroke-dasharray="502.6548245743669"
+          stroke-dashoffset="431.0674767623748"
+          size="8.639279176834153"
+          data-testid="lang-donut"
         />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="387.03"
-          y="0"
-          width="22.97"
-          height="8"
-          fill="#3D6117"
+      </g>
+    
+      <g class="stagger" style="animation-delay: 600ms">
+        <circle 
+          cx="150"
+          cy="100"
+          r="80"
+          fill="transparent"
+          stroke="#3D6117"
+          stroke-width="25"
+          stroke-dasharray="502.6548245743669"
+          stroke-dashoffset="474.4932303531803"
+          size="5.60257115706251"
+          data-testid="lang-donut"
         />
-      
-      
-    <g transform="translate(0, 25)">
-      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
+      </g>
+    
+        </svg>
+      </g>
+      <g transform="translate(0, 220)">
+        <svg data-testid="lang-names" x="25">
+          <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
@@ -230,8 +245,8 @@
       </text>
     </g>
   </g></g>
-    </g>
-  
+        </svg>
+      </g>
     </svg>
   
         </g>
