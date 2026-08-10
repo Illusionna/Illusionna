@@ -24,12 +24,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=donut-vertical&langs_count=6&theme=transparent&hide_border=true&hide_title=true
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python -m pip install -r stats/requirements.txt
+          python generate_images.py
+        working-directory: stats
+        env:
+          ACCESS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          STATS_USER: ${{ github.repository_owner }}
 
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -43,6 +44,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile/*.svg stats/generated/languages.svg
           git commit -m "Update README cards" || exit 0
           git push
