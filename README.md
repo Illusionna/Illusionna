@@ -1,7 +1,7 @@
 # The index page of all my repositories. 👋
 
 <div align="center">
-    <img src="./stats/generated/languages.svg" width="360" alt="Most used languages"/>
+    <img src="./stats/generated/languages.svg" width="100%" alt="Most used languages"/>
     <br></br>
 </div>
 
