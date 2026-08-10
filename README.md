@@ -2,7 +2,6 @@
 
 <div align="center">
     <img src="./profile/top-langs.svg" width="40%"/>
-    <img src="./profile/stats.svg" width="52%"/>
     <br></br>
 </div>
 
@@ -16,6 +15,8 @@
         border-image: linear-gradient(to right, #F00, #0F0 20%, #00F 80%, #000) 1 !important;
     }
 </style> -->
+
+![Odyssey](./Odyssey.jpeg)
 
 ---
 
