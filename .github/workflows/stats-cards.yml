@@ -31,6 +31,8 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.STATS_TOKEN }}
           STATS_USER: ${{ github.repository_owner }}
+          LANGUAGES_CARD_WIDTH: "760"
+          LANGUAGES_CARD_HEIGHT: "210"
 
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1

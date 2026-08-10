@@ -55,7 +55,24 @@ async def generate_languages(s: Stats) -> None:
     """
     with open("templates/languages.svg", "r") as f:
         output = f.read()
-
+    # The workflow controls the output size without changing the SVG template.
+    card_width = int(os.getenv("LANGUAGES_CARD_WIDTH", "360"))
+    card_height = int(os.getenv("LANGUAGES_CARD_HEIGHT", "210"))
+    output = re.sub(
+        r'<svg width="[0-9]+" height="[0-9]+"',
+        f'<svg width="{card_width}" height="{card_height}"',
+        output,
+        count=1,
+    )
+    output = re.sub(
+        r'<foreignObject x="21" y="17" width="[0-9]+" height="[0-9]+">',
+        (
+            f'<foreignObject x="21" y="17" '
+            f'width="{card_width - 42}" height="{card_height - 34}">'
+        ),
+        output,
+        count=1,
+    )
     progress = ""
     lang_list = ""
     sorted_languages = sorted((await s.languages).items(), reverse=True,
