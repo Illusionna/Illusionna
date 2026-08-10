@@ -1,9 +1,6 @@
 # The index page of all my repositories. 👋
 
-<div align="center">
-    <img src="./profile/top-langs.svg" width="40%"/>
-    <br></br>
-</div>
+![top-langs](./profile/top-langs.svg)
 
 > Back-end: Python, C, Zig, Go (with some Java, MATLAB, C++)
 
